@@ -1,0 +1,212 @@
+﻿ID,Start time,Completion time,Email,Name,Last modified time,Which Award Are You Studying For in UH (choose nearest one if yours is not here),What is your gender,What is your height in cm (just put a number),Which continent do you come from,How many minutes do you spend doing physical exercise each week,Where you live is how far away from campus in miles?,How much do you spend each week on transport in £s,How long does it take you to get to campus in minutes?,How much do you spend on food each week in pounds?
+1,10/28/23 8:32:02,10/28/23 8:32:40,anonymous,,,Software Engineering,Man,178,Europe,100,25,20,40,
+2,10/28/23 10:11:07,10/28/23 10:12:25,anonymous,,,Artificial Intelligence,Man,157,Asia,60,0.7,0,10,45
+3,10/28/23 10:25:20,10/28/23 10:43:00,anonymous,,,Software Engineering,Man,193,Asia,15,16,21,150,20
+4,10/28/23 10:44:47,10/28/23 10:45:32,anonymous,,,Advanced Computer Science,Man,195,Europe,180,2,4,12,60
+5,10/28/23 12:44:02,10/28/23 12:45:17,anonymous,,,Cybersecurity,Woman,158,Asia,0,18.5,8,60,100
+6,10/28/23 13:42:13,10/28/23 13:44:12,anonymous,,,Advanced Computer Science,Man,169,Asia,0,1.7,8,10,25
+7,10/28/23 14:02:31,10/28/23 14:16:04,anonymous,,,Advanced Computer Science,Man,175,Asia,100,20,60,120,50
+8,10/28/23 15:08:30,10/28/23 15:13:49,anonymous,,,Advanced Computer Science,Man,180,Asia,30,15,30,60,30
+9,10/29/23 1:33:49,10/29/23 1:36:34,anonymous,,,Software Engineering,Man,177,Asia,120,33.2,30,180,25
+10,10/29/23 13:32:19,10/29/23 13:37:57,anonymous,,,Cybersecurity,Man,170.18,Asia,600,35,50,180,20
+11,10/30/23 11:22:57,10/30/23 11:24:03,anonymous,,,Advanced Computer Science,Man,172,Asia,300,20,40,40,15
+12,10/30/23 11:22:29,10/30/23 11:24:07,anonymous,,,Artificial Intelligence,Man,160,Asia,300,1,10,5,70
+13,10/30/23 11:27:23,10/30/23 11:29:18,anonymous,,,Advanced Computer Science,Woman,163,Asia,0,15,12,45,30
+14,10/30/23 11:39:31,10/30/23 11:42:25,anonymous,,,Software Engineering,Woman,159,Asia,60,2.7,22,10,50
+15,10/30/23 12:10:49,10/30/23 12:16:09,anonymous,,,Advanced Computer Science,Man,165.02,Asia,420,21,50,180,100
+16,10/30/23 13:02:38,10/30/23 13:03:44,anonymous,,,Data Science,Man,175,Asia,300,3,0,20,30
+17,10/30/23 13:02:50,10/30/23 13:04:13,anonymous,,,Data Science,Man,170.6,Asia,15,5.6,30,90,90
+18,10/30/23 13:03:16,10/30/23 13:04:15,anonymous,,,Data Science,Woman,162,Asia,200,0,0,5,50
+19,10/30/23 13:04:18,10/30/23 13:05:27,anonymous,,,Advanced Computer Science,Man,167,Asia,30,10,4,30,80
+20,10/30/23 13:07:02,10/30/23 13:08:50,anonymous,,,Data Science,Man,190,Asia,30,1.3,5,20,10
+21,10/30/23 13:10:06,10/30/23 13:11:49,anonymous,,,Data Science,Woman,150,Asia,60,19,20,120,70
+22,10/30/23 13:18:55,10/30/23 13:22:14,anonymous,,,Advanced Computer Science,Woman,160,Asia,30,28,100,15,60
+23,10/30/23 13:28:45,10/30/23 13:30:52,anonymous,,,Advanced Computer Science,Man,180,Asia,60,22,60,75,80
+24,10/30/23 13:55:06,10/30/23 13:55:53,anonymous,,,Advanced Computer Science,Man,192,Asia,0,25,15,240,15
+25,10/30/23 14:06:24,10/30/23 14:07:34,anonymous,,,Data Science,Man,168,Asia,45,10,15,60,20
+26,10/30/23 14:05:34,10/30/23 14:07:41,anonymous,,,Data Science,Woman,155,Asia,3,10,16,120,20
+27,10/30/23 14:04:07,10/30/23 14:16:02,anonymous,,,Advanced Computer Science,Woman,165,Asia,180,20,8,52,40
+28,10/30/23 14:18:01,10/30/23 14:23:26,anonymous,,,Data Science,Woman,152,Asia,40,20,24,150,18
+29,10/30/23 15:10:11,10/30/23 15:11:55,anonymous,,,Data Science,Man,200,Africa,30,4,0,10,10
+30,10/31/23 2:39:14,10/31/23 2:41:47,anonymous,,,Data Science,Man,180,Other,30,15,30,60,30
+31,10/31/23 9:11:04,10/31/23 9:12:11,anonymous,,,Cybersecurity,Woman,152,Asia,20,15,20,180,50
+32,10/31/23 9:18:21,10/31/23 9:19:22,anonymous,,,Cybersecurity,Woman,173,Asia,5,10,20,30,10
+33,10/31/23 9:18:13,10/31/23 9:20:05,anonymous,,,Cybersecurity,Woman,157,Asia,120,10,100,50,100
+34,10/31/23 9:18:16,10/31/23 9:20:14,anonymous,,,Advanced Computer Science,Woman,153,Asia,15,15,12,65,20
+35,10/31/23 9:19:00,10/31/23 9:20:36,anonymous,,,Cybersecurity,Man,176,Asia,60,15,20,60,30
+36,10/31/23 9:19:52,10/31/23 9:23:45,anonymous,,,Advanced Computer Science,Woman,150,Asia,30,20,100,30,50
+37,10/31/23 9:22:44,10/31/23 9:24:54,anonymous,,,Advanced Computer Science,Man,160,Asia,20,0.8,20,15,100
+38,10/31/23 9:22:25,10/31/23 9:25:42,anonymous,,,Advanced Computer Science,Woman,165,Asia,30,20,30,45,100
+39,10/31/23 9:18:42,10/31/23 9:26:00,anonymous,,,Advanced Computer Science,Woman,153,Asia,31,0,100,10,100
+40,10/31/23 9:20:27,10/31/23 9:27:08,anonymous,,,Advanced Computer Science,Man,173,Asia,1,16,12,70,30
+41,10/31/23 9:10:20,10/31/23 9:54:04,anonymous,,,Cybersecurity,Man,180,Asia,20,30,30,180,60
+42,10/31/23 10:00:30,10/31/23 10:02:07,anonymous,,,Advanced Computer Science,Man,180,Asia,120,14,8,60,25
+43,10/31/23 10:11:51,10/31/23 10:12:55,anonymous,,,Cybersecurity,Man,168,Africa,7,10,60,120,30
+44,10/31/23 10:11:42,10/31/23 10:16:09,anonymous,,,Cybersecurity,Woman,162,Asia,30,19,25,60,10
+45,10/31/23 10:18:57,10/31/23 10:20:58,anonymous,,,Advanced Computer Science,Man,180,Asia,210,1,10,15,40
+46,10/31/23 10:39:26,10/31/23 10:45:00,anonymous,,,Cybersecurity,Woman,152,Asia,20,12,20,90,50
+47,10/31/23 12:54:11,10/31/23 12:55:25,anonymous,,,Software Engineering,Man,176,Europe,60,2.8,0,38,60
+48,10/31/23 13:05:26,10/31/23 13:07:46,anonymous,,,Software Engineering,Woman,157,Asia,4200,2,0,20,20
+49,10/31/23 13:10:02,10/31/23 13:12:55,anonymous,,,Software Engineering,Man,157,Asia,0,11,8,59,40
+50,10/31/23 13:10:17,10/31/23 13:14:06,anonymous,,,Software Engineering,Man,177,Asia,6,28,60,70,70
+51,10/31/23 13:11:26,10/31/23 13:14:16,anonymous,,,Software Engineering,Man,170,Asia,100,25,80,96,80
+52,10/31/23 13:11:34,10/31/23 13:14:31,anonymous,,,Software Engineering,Man,170,Asia,20,50,16,100,100
+53,10/31/23 13:10:48,10/31/23 13:14:45,anonymous,,,Software Engineering,Man,160,Asia,30,14.6,12,60,10
+54,10/31/23 13:14:33,10/31/23 13:15:53,anonymous,,,Software Engineering,Man,174,Asia,30,15,4,45,60
+55,10/31/23 13:16:15,10/31/23 13:17:41,anonymous,,,Software Engineering,Man,183,The Americas,120,8,28,70,200
+56,10/31/23 13:14:23,10/31/23 13:27:01,anonymous,,,Software Engineering,Non-binary,165,Asia,10,10,20,60,30
+57,10/31/23 13:11:48,10/31/23 13:27:11,anonymous,,,Software Engineering,Man,168,Asia,60,14,25,50,60
+58,10/31/23 13:22:53,10/31/23 13:36:58,anonymous,,,Software Engineering,Man,180,Asia,60,10,8,60,60
+59,10/31/23 13:39:07,10/31/23 13:43:26,anonymous,,,Software Engineering,Prefer not to say,167,Asia,0,30,70,60,30
+60,10/31/23 13:44:03,10/31/23 13:46:49,anonymous,,,Software Engineering,Man,170,Africa,210,15,40,140,50
+61,11/1/23 10:59:48,11/1/23 11:01:28,anonymous,,,Advanced Computer Science,Man,170,Asia,60,25,25,60,40
+62,11/1/23 11:57:10,11/1/23 11:58:58,anonymous,,,Cybersecurity,Man,158,Asia,10,1.3,0,10,30
+63,11/1/23 13:03:21,11/1/23 13:07:00,anonymous,,,Advanced Computer Science,Woman,176.784,Asia,220,25,25,60,40
+64,11/1/23 13:04:14,11/1/23 13:07:05,anonymous,,,Cybersecurity,Man,160,Africa,60,30,60,60,60
+65,11/1/23 13:03:29,11/1/23 13:07:09,anonymous,,,Advanced Computer Science,Woman,167.65,Asia,230,24,28,60,50
+66,11/1/23 13:02:58,11/1/23 13:08:14,anonymous,,,Advanced Computer Science,Man,173,Asia,0,12.7,12,60,50
+67,11/1/23 13:05:37,11/1/23 13:09:10,anonymous,,,Cybersecurity,Man,170,Asia,480,1.5,0,30,80
+68,11/1/23 13:05:53,11/1/23 13:09:14,anonymous,,,Advanced Computer Science,Woman,170,Asia,200,15,20,120,5
+69,11/1/23 13:03:03,11/1/23 13:09:32,anonymous,,,Advanced Computer Science,Man,183,Asia,16,15,16,80,14
+70,11/1/23 13:05:37,11/1/23 13:10:11,anonymous,,,Advanced Computer Science,Man,190,Asia,150,20,50,80,50
+71,11/1/23 13:08:59,11/1/23 13:11:46,anonymous,,,Cybersecurity,Man,180,Asia,360,35,40,120,25
+72,11/1/23 13:11:02,11/1/23 13:12:14,anonymous,,,Data Science,Woman,155,Asia,180,1.5,20,15,15
+73,11/1/23 13:10:47,11/1/23 13:12:45,anonymous,,,Cybersecurity,Man,157,Asia,720,3,5,15,50
+74,11/1/23 13:14:21,11/1/23 13:15:50,anonymous,,,Data Science,Man,175,Asia,120,40,20,120,50
+75,11/1/23 13:04:43,11/1/23 13:16:16,anonymous,,,Advanced Computer Science,Woman,150.4,Asia,10,1.667,20,10,50
+76,11/1/23 13:04:02,11/1/23 13:17:20,anonymous,,,Advanced Computer Science,Man,155,Asia,45,16,24,50,50
+77,11/1/23 13:16:53,11/1/23 13:18:07,anonymous,,,Data Science,Man,180,Asia,60,15,50,80,25
+78,11/1/23 13:16:23,11/1/23 13:20:19,anonymous,,,Data Science,Man,175,Asia,300,30,30,150,30
+79,11/1/23 13:11:50,11/1/23 13:21:06,anonymous,,,Data Science,Woman,160,Asia,0,30,40,40,120
+80,11/1/23 13:20:15,11/1/23 13:21:13,anonymous,,,Cybersecurity,Prefer not to say,188,Other,0,1000,10000,650,450
+81,11/1/23 13:20:09,11/1/23 13:21:40,anonymous,,,Data Science,Man,168,Asia,180,15,50,60,20
+82,11/1/23 13:20:21,11/1/23 13:22:34,anonymous,,,Data Science,Woman,161,Asia,30,15,30,90,40
+83,11/1/23 13:22:19,11/1/23 13:23:54,anonymous,,,Data Science,Man,167,Asia,60,30,16,180,35
+84,11/1/23 13:31:21,11/1/23 13:33:06,anonymous,,,Advanced Computer Science,Woman,175,Other,4,20,60,180,50
+85,11/1/23 13:20:15,11/1/23 13:33:23,anonymous,,,Data Science,Man,155,Asia,10,2,0,15,70
+86,11/1/23 13:18:10,11/1/23 13:34:24,anonymous,,,Data Science,Man,176.25,Asia,100,15,40,1.5,50
+87,11/1/23 13:17:18,11/1/23 13:44:26,anonymous,,,Data Science,Man,165,Asia,150,31.7,30,42,40
+88,11/1/23 13:44:17,11/1/23 13:46:18,anonymous,,,Data Science,Man,165,Asia,60,15,15,80,40
+89,11/1/23 13:44:08,11/1/23 13:51:31,anonymous,,,Advanced Computer Science,Man,174,Asia,1,25,30,1.3,100
+90,11/1/23 13:15:58,11/1/23 13:52:11,anonymous,,,Cybersecurity,Woman,158.49,Asia,30,1.5,12,95,20
+91,11/1/23 13:21:23,11/1/23 13:54:37,anonymous,,,Advanced Computer Science,Man,180,Asia,3,14,100,1,100
+92,11/1/23 14:05:20,11/1/23 14:07:02,anonymous,,,Advanced Computer Science,Man,183,Europe,540,17,24,180,500
+93,11/1/23 14:11:10,11/1/23 14:12:06,anonymous,,,Cybersecurity,Man,170,Asia,100,20,25,90,35
+94,11/1/23 14:11:58,11/1/23 14:13:06,anonymous,,,Cybersecurity,Man,162,Asia,30,15,24,60,25
+95,11/1/23 14:11:49,11/1/23 14:13:16,anonymous,,,Advanced Computer Science,Man,159,Asia,60,25,8,80,20
+96,11/1/23 14:12:08,11/1/23 14:13:58,anonymous,,,Advanced Computer Science,Woman,150,Asia,15,15,80,70,90
+97,11/1/23 14:11:13,11/1/23 14:14:41,anonymous,,,Cybersecurity,Man,165,Asia,1800,16,14,45,40
+98,11/1/23 14:12:04,11/1/23 14:14:43,anonymous,,,Cybersecurity,Man,175,Asia,960,16,4,60,50
+99,11/1/23 14:12:10,11/1/23 14:15:19,anonymous,,,Software Engineering,Man,164,Asia,60,100,24,2.5,200
+100,11/1/23 14:12:29,11/1/23 14:15:51,anonymous,,,Advanced Computer Science,Man,177.8,Asia,200,1,0,10,150
+101,11/1/23 14:12:46,11/1/23 14:16:05,anonymous,,,Advanced Computer Science,Man,168,Asia,250,12,40,70,40
+102,11/1/23 14:12:26,11/1/23 14:16:19,anonymous,,,Advanced Computer Science,Woman,165,Asia,240,20,15,50,50
+103,11/1/23 14:13:08,11/1/23 14:16:23,anonymous,,,Advanced Computer Science,Man,170,Asia,60,12,40,60,100
+104,11/1/23 14:13:34,11/1/23 14:16:25,anonymous,,,Advanced Computer Science,Man,181,Asia,300,20,120,120,15
+105,11/1/23 14:14:34,11/1/23 14:16:34,anonymous,,,Advanced Computer Science,Man,179,Asia,1260,2,0,15,10
+106,11/1/23 14:14:11,11/1/23 14:16:38,anonymous,,,Advanced Computer Science,Woman,157,Asia,15,15,4,55,5
+107,11/1/23 14:13:49,11/1/23 14:16:44,anonymous,,,Advanced Computer Science,Man,161,Asia,250,15,35,90,100
+108,11/1/23 14:14:48,11/1/23 14:16:45,anonymous,,,Advanced Computer Science,Woman,160,Asia,60,12,12,60,40
+109,11/1/23 14:12:29,11/1/23 14:17:12,anonymous,,,Advanced Computer Science,Man,166,Asia,60,45,40,140,100
+110,11/1/23 14:14:34,11/1/23 14:17:13,anonymous,,,Advanced Computer Science,Man,166,Asia,60,25,30,180,40
+111,11/1/23 14:14:51,11/1/23 14:17:24,anonymous,,,Advanced Computer Science,Man,180,Asia,200,52,60,15,60
+112,11/1/23 14:12:58,11/1/23 14:17:25,anonymous,,,Advanced Computer Science,Man,179,Asia,18900,1.5,0,30,30
+113,11/1/23 14:12:50,11/1/23 14:18:19,anonymous,,,Advanced Computer Science,Man,160,Asia,240,38,60,210,100
+114,11/1/23 14:12:35,11/1/23 14:18:44,anonymous,,,Advanced Computer Science,Man,170,Asia,1260,11.2,12,60,40
+115,11/1/23 14:11:29,11/1/23 14:18:52,anonymous,,,Advanced Computer Science,Man,155.44,Asia,240,21,6,45,50
+116,11/1/23 14:16:04,11/1/23 14:19:14,anonymous,,,Advanced Computer Science,Man,165,Asia,30,15,50,45,50
+117,11/1/23 14:16:19,11/1/23 14:20:20,anonymous,,,Data Science,Man,170,Asia,30,30,40,145,30
+118,11/1/23 14:18:02,11/1/23 14:20:34,anonymous,,,Advanced Computer Science,Man,158,Asia,30,20,16,55,15
+119,11/1/23 14:14:45,11/1/23 14:20:45,anonymous,,,Advanced Computer Science,Man,154,Asia,30,10,12,60,35
+120,11/1/23 14:20:20,11/1/23 14:21:49,anonymous,,,Advanced Computer Science,Man,170,Asia,240,35,60,160,60
+121,11/1/23 14:23:52,11/1/23 14:24:51,anonymous,,,Advanced Computer Science,Man,155.44,Asia,300,40,70,2,20
+122,11/1/23 14:21:26,11/1/23 14:26:17,anonymous,,,Advanced Computer Science,Man,170,Asia,200,12,12,60,100
+123,11/1/23 14:28:48,11/1/23 14:30:21,anonymous,,,Advanced Computer Science,Man,175,Asia,200,25,25,100,100
+124,11/1/23 16:58:10,11/1/23 16:59:43,anonymous,,,Advanced Computer Science,Man,175,Asia,30,0.3,0,10,75
+125,11/1/23 16:58:04,11/1/23 17:00:49,anonymous,,,Artificial Intelligence,Woman,154,Asia,0,11,12,55,12
+126,11/1/23 17:00:22,11/1/23 17:02:07,anonymous,,,Artificial Intelligence,Woman,155,Asia,2,0,10,5,20
+127,11/1/23 17:02:34,11/1/23 17:04:03,anonymous,,,Artificial Intelligence,Woman,160,Asia,350,16,10,10,20
+128,11/1/23 17:04:16,11/1/23 17:05:33,anonymous,,,Artificial Intelligence,Man,163,Asia,2,1,0,10,50
+129,11/1/23 17:09:10,11/1/23 17:10:28,anonymous,,,Artificial Intelligence,Man,200,Asia,30,10,30,150,50
+130,11/1/23 17:08:14,11/1/23 17:12:02,anonymous,,,Artificial Intelligence,Man,163,Asia,420,19,8,45,30
+131,11/1/23 17:08:15,11/1/23 17:12:27,anonymous,,,Advanced Computer Science,Woman,151,Asia,2,19,8,54,20
+132,11/1/23 17:10:42,11/1/23 17:12:35,anonymous,,,Artificial Intelligence,Man,165,Asia,120,30,24,120,80
+133,11/1/23 17:13:09,11/1/23 17:15:26,anonymous,,,Artificial Intelligence,Man,180,Africa,90,12,25,60,30
+134,11/1/23 17:12:53,11/1/23 17:16:27,anonymous,,,Artificial Intelligence,Man,180,Africa,180,10,30,120,50
+135,11/1/23 17:15:47,11/1/23 17:17:27,anonymous,,,Advanced Computer Science,Man,175,Asia,60,18,16,80,60
+136,11/1/23 17:12:53,11/1/23 17:19:23,anonymous,,,Artificial Intelligence,Man,167,Africa,60,5,50,30,40
+137,11/1/23 17:16:36,11/1/23 17:23:30,anonymous,,,Artificial Intelligence,Woman,155,Asia,60,6,10,25,75
+138,11/1/23 17:23:23,11/1/23 17:26:29,anonymous,,,Advanced Computer Science,Man,183,Other,60,23,180,2,200
+139,11/1/23 17:23:32,11/1/23 17:27:10,anonymous,,,Artificial Intelligence,Woman,153,Asia,1,25,35,120,20
+140,11/1/23 17:24:29,11/1/23 17:27:44,anonymous,,,Artificial Intelligence,Woman,157,Asia,120,0.5,0,10,20
+141,11/1/23 17:26:02,11/1/23 17:28:42,anonymous,,,Artificial Intelligence,Man,179.832,Asia,30,0,2,10,50
+142,11/1/23 17:26:18,11/1/23 17:33:02,anonymous,,,Artificial Intelligence,Man,180,Asia,180,39,100,180,50
+143,11/1/23 17:35:04,11/1/23 17:36:00,anonymous,,,Artificial Intelligence,Man,180,Asia,300,2,10,10,50
+144,11/1/23 17:35:09,11/1/23 17:36:05,anonymous,,,Data Science,Man,175,Asia,0,2,20,20,20
+145,11/2/23 0:16:24,11/2/23 0:17:41,anonymous,,,Data Science,Man,178,Asia,210,2,0,40,250
+146,11/2/23 13:05:49,11/2/23 13:07:42,anonymous,,,Cybersecurity,Man,181,Europe,60,12,10,45,30
+147,11/2/23 13:05:09,11/2/23 13:08:28,anonymous,,,Cybersecurity,Man,178,Asia,30,20,35,120,50
+148,11/2/23 13:07:41,11/2/23 13:08:57,anonymous,,,Cybersecurity,Man,177,Asia,14,1,0,15,30
+149,11/2/23 13:07:54,11/2/23 13:09:01,anonymous,,,Cybersecurity,Man,165,Asia,60,8,25,180,50
+150,11/2/23 13:07:37,11/2/23 13:09:02,anonymous,,,Cybersecurity,Man,180,Asia,200,5,0,10,25
+151,11/2/23 13:07:18,11/2/23 13:09:15,anonymous,,,Cybersecurity,Man,180,Asia,0,2,0,10,30
+152,11/2/23 13:06:44,11/2/23 13:09:25,anonymous,,,Cybersecurity,Man,171,Asia,60,30,50,120,45
+153,11/2/23 13:06:49,11/2/23 13:09:32,anonymous,,,Cybersecurity,Man,163,Asia,20,2,0,10,20
+154,11/2/23 13:08:06,11/2/23 13:09:48,anonymous,,,Cybersecurity,Man,156,Asia,10,50,60,260,10
+155,11/2/23 13:07:50,11/2/23 13:09:55,anonymous,,,Cybersecurity,Man,178,Asia,0,25,60,180,120
+156,11/2/23 13:07:45,11/2/23 13:10:12,anonymous,,,Cybersecurity,Woman,155,Asia,20,45,20,2.3,50
+157,11/2/23 13:07:00,11/2/23 13:10:26,anonymous,,,Cybersecurity,Woman,153,Asia,1000,20,20,150,5
+158,11/2/23 13:08:26,11/2/23 13:10:27,anonymous,,,Cybersecurity,Woman,155,Asia,40,20,12,45,100
+159,11/2/23 13:05:21,11/2/23 13:10:46,anonymous,,,Cybersecurity,Man,150,Asia,60,20,24,50,30
+160,11/2/23 13:06:16,11/2/23 13:10:56,anonymous,,,Cybersecurity,Man,178,Asia,60,1,0,20,10
+161,11/2/23 13:07:03,11/2/23 13:11:06,anonymous,,,Cybersecurity,Man,172,Europe,180,20,8,45,40
+162,11/2/23 13:10:26,11/2/23 13:11:18,anonymous,,,Cybersecurity,Man,184,Asia,20,12,20,45,50
+163,11/2/23 13:10:54,11/2/23 13:11:23,anonymous,,,Cybersecurity,Man,180,Asia,30,0.2,0,10,30
+164,11/2/23 13:07:03,11/2/23 13:11:27,anonymous,,,Cybersecurity,Man,179,Asia,200,17,25,40,20
+165,11/2/23 13:06:42,11/2/23 13:11:31,anonymous,,,Cybersecurity,Man,167,Asia,30,1,10,20,10
+166,11/2/23 13:07:41,11/2/23 13:12:14,anonymous,,,Cybersecurity,Man,169,Asia,160,20.6,8,60,30
+167,11/2/23 13:08:30,11/2/23 13:12:49,anonymous,,,Cybersecurity,Man,180,Asia,100,18,20,50,20
+168,11/2/23 13:11:40,11/2/23 13:13:08,anonymous,,,Cybersecurity,Woman,158,Asia,210,14,8,60,30
+169,11/2/23 13:10:57,11/2/23 13:14:46,anonymous,,,Cybersecurity,Man,188,Asia,360,40,100,120,100
+170,11/2/23 13:13:29,11/2/23 13:15:01,anonymous,,,Cybersecurity,Woman,167,Asia,35,20,40,45,100
+171,11/2/23 13:10:22,11/2/23 13:16:05,anonymous,,,Cybersecurity,Man,163,Asia,200,50,20,100,30
+172,11/2/23 13:20:06,11/2/23 13:22:16,anonymous,,,Cybersecurity,Man,172,Asia,200,15,8,60,20
+173,11/2/23 13:24:52,11/2/23 13:27:11,anonymous,,,Cybersecurity,Man,150,Asia,60,60,100,180,100
+174,11/2/23 14:05:27,11/2/23 14:07:15,anonymous,,,Cybersecurity,Man,175,Other,300,60,80,120,50
+175,11/2/23 14:05:30,11/2/23 14:08:02,anonymous,,,Cybersecurity,Man,176,Asia,300,0.5,8,10,10
+176,11/2/23 14:08:19,11/2/23 14:09:11,anonymous,,,Cybersecurity,Woman,156,Asia,0,1,0,5,10
+177,11/2/23 14:07:20,11/2/23 14:09:12,anonymous,,,Cybersecurity,Man,190,Asia,60,22,50,120,50
+178,11/2/23 14:07:37,11/2/23 14:09:24,anonymous,,,Cybersecurity,Man,177,Asia,12,0.5,8,15,25
+179,11/2/23 14:07:35,11/2/23 14:09:29,anonymous,,,Cybersecurity,Man,185.42,Asia,500,5,100,60,150
+180,11/2/23 14:07:36,11/2/23 14:09:34,anonymous,,,Cybersecurity,Man,157.48,Asia,300,5,0,10,25
+181,11/2/23 14:07:56,11/2/23 14:09:41,anonymous,,,Cybersecurity,Man,174,Asia,10,1,2,5,20
+182,11/2/23 14:08:46,11/2/23 14:09:51,anonymous,,,Cybersecurity,Man,175,Asia,10,1,0,15,20
+183,11/2/23 14:07:10,11/2/23 14:09:52,anonymous,,,Cybersecurity,Man,160,Asia,300,25,100,80,100
+184,11/2/23 14:07:16,11/2/23 14:09:53,anonymous,,,Cybersecurity,Man,170,Africa,60,1,5,5,5
+185,11/2/23 14:07:18,11/2/23 14:10:00,anonymous,,,Cybersecurity,Man,182.88,Asia,360,25,40,120,40
+186,11/2/23 14:09:20,11/2/23 14:10:18,anonymous,,,Cybersecurity,Man,172,Asia,10,0,0,5,20
+187,11/2/23 14:07:10,11/2/23 14:10:23,anonymous,,,Cybersecurity,Man,196,Europe,720,0,0,0,30
+188,11/2/23 14:06:47,11/2/23 14:10:30,anonymous,,,Cybersecurity,Man,170,Asia,10,24,30,20,50
+189,11/2/23 14:09:01,11/2/23 14:10:50,anonymous,,,Cybersecurity,Man,155,Africa,1160,15,20,90,20
+190,11/2/23 14:10:12,11/2/23 14:11:06,anonymous,,,Cybersecurity,Man,210,Asia,250,20,20,45,30
+191,11/2/23 14:09:52,11/2/23 14:11:17,anonymous,,,Cybersecurity,Woman,160,Asia,30,25,8,120,40
+192,11/2/23 14:10:14,11/2/23 14:11:53,anonymous,,,Cybersecurity,Man,170,Asia,200,20,30,100,50
+193,11/2/23 14:08:51,11/2/23 14:11:53,anonymous,,,Cybersecurity,Man,185.928,Asia,6,12,30,90,50
+194,11/2/23 14:08:29,11/2/23 14:11:59,anonymous,,,Cybersecurity,Man,177,Asia,7,112.8,150,250,35
+195,11/2/23 14:10:23,11/2/23 14:12:03,anonymous,,,Cybersecurity,Man,175,Asia,300,0.6,0,15,20
+196,11/2/23 14:11:11,11/2/23 14:12:05,anonymous,,,Cybersecurity,Man,150,Asia,120,10,120,90,120
+197,11/2/23 14:09:39,11/2/23 14:12:05,anonymous,,,Cybersecurity,Woman,180,Africa,150,2,4,20,20
+198,11/2/23 14:08:26,11/2/23 14:12:19,anonymous,,,Cybersecurity,Woman,160,Africa,5,2,1,10,5
+199,11/2/23 14:09:45,11/2/23 14:12:19,anonymous,,,Cybersecurity,Man,184,Asia,60,14,16,45,30
+200,11/2/23 14:10:41,11/2/23 14:12:20,anonymous,,,Cybersecurity,Man,172,Asia,7,30,70,90,50
+201,11/2/23 14:11:00,11/2/23 14:12:22,anonymous,,,Cybersecurity,Man,174,Asia,10,15,30,60,50
+202,11/2/23 14:10:44,11/2/23 14:12:37,anonymous,,,Cybersecurity,Woman,196,Africa,60,40,60,180,10
+203,11/2/23 14:12:10,11/2/23 14:13:16,anonymous,,,Cybersecurity,Man,170,Asia,85,1.5,0,40,70
+204,11/2/23 14:07:41,11/2/23 14:13:23,anonymous,,,Cybersecurity,Woman,172,Asia,30,117,120,280,30
+205,11/2/23 14:12:52,11/2/23 14:14:26,anonymous,,,Artificial Intelligence,Man,170,Asia,300,14,30,120,30
+206,11/2/23 14:16:20,11/2/23 14:18:08,anonymous,,,Cybersecurity,Woman,155,Asia,0,15,30,60,10
+207,11/2/23 14:15:47,11/2/23 14:18:53,anonymous,,,Cybersecurity,Man,160,Asia,20,35,100,3,90
+208,11/2/23 14:18:53,11/2/23 14:19:46,anonymous,,,Cybersecurity,Man,173,Asia,360,30,300,80,250
+209,11/2/23 14:19:48,11/2/23 14:21:17,anonymous,,,Cybersecurity,Man,170,Asia,0,35,30,40,50
+210,11/2/23 15:53:31,11/2/23 15:55:42,anonymous,,,Cybersecurity,Man,180,Asia,180,20,20,60,40
+211,11/2/23 16:10:50,11/2/23 16:16:36,anonymous,,,Cybersecurity,Woman,151,Asia,200,3,10,20,25
