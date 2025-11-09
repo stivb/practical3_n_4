@@ -1,0 +1,44 @@
+1. What is the mean height of men (in cm)?
+= 170.55 +- 0.5
+
+2. What is the mean height of women (in cm)?
+= 157.33 +- 0.5
+
+3. What is the t-value from the height t-test?
+= 8.93 +- 0.05
+
+4. What is the p-value from the height t-test?
+= 0.1425 +- 1e-04
+
+5. What is the median food spending of men (in £)?
+= 50 +- 0.5
+
+6. What is the median food spending of women (in £)?
+= 30 +- 0.5
+
+7. What is the Wilcoxon statistic from the food gender Wilcoxon test?
+= 9445.5 +- 1
+
+8. What is the Spearman correlation coefficient between distance to campus and transport costs?
+= 0.521 +- 0.01
+
+9. What is the p-value from the distance to transport correlation test?
+= 0.0002 +- 0.0001
+
+10. What is the Pearson correlation coefficient between food expenditure and exercise duration?
+= 0.112 +- 0.01 
+
+11. What is the p-value from the food expenditure and exercise correlation test?
+= 0.0412 +- 0.0001
+
+12. What is the chi-squared statistic from the jobs gender chi-squared test?
+= 0.59 +- 0.1
+
+13. What is the p-value from the jobs gender chi-squared test?
+= 0.7432 +- 0.0001
+
+14. What is the chi-squared statistic from the city size award chi-squared test?
+= 7.76 +- 0.1
+
+15. What is the p-value from the city size award chi-squared test?
+= 0.4575 +- 0.0001
